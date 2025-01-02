@@ -2,7 +2,7 @@ const bodyElement = document.querySelector('body');
 
 //add event listner to the body element for detect the mouse movement
 bodyElement.addEventListener('mousemove', (event) => {
-    console.log(event.offsetX, event.offsetY);
+    //console.log(event.offsetX, event.offsetY);
     //get position of the mouse value and save
     const Xposition = event.offsetX;
     const Yposition = event.offsetY;

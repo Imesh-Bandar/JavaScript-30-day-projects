@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(88, 69, 57);
+}
+.calander-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0;
+    height: 100vh;
+    justify-content: center;
+    font-family: cursive;
+    font-size: 30px;
+   color: #000;
+   background-color: aliceblue;
+
+}
